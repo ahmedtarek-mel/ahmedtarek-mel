@@ -8,10 +8,12 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Generate Pac-Man Graph (Light)
         uses: Platane/snk@v3
@@ -24,7 +26,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ahmedtarek-mel
-          color_snake: "#00FF00"
           outputs: |
             pacman-contribution-graph-dark.svg
 
