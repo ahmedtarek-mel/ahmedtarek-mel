@@ -91,9 +91,14 @@ I blend technical expertise with analytical thinking to design solutions that tr
 </div>
 
 --- 
-### 🐍 GitHub Contribution Snake
+### 🐍 Pac-Man GitHub Contribution Animation
 
-![snake gif](https://github.com/ahmedtarek-mel/ahmedtarek-mel/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 ## 🌍 Connect With Me
 
