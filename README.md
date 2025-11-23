@@ -90,8 +90,11 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 </div>
 
----
+--- 
+### 🐍 GitHub Contribution Snake
 
+![snake gif](https://github.com/ahmedtarek-mel/ahmedtarek-mel/blob/output/github-contribution-grid-snake-dark.svg)
+---
 ## 🌍 Connect With Me
 
 <div align="center">
