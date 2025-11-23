@@ -89,8 +89,7 @@ I blend technical expertise with analytical thinking to design solutions that tr
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages"/>
 
 </div>
-
---- 
+  
 ### 🐍 Pac-Man GitHub Contribution Animation
 
 <picture>
@@ -99,7 +98,7 @@ I blend technical expertise with analytical thinking to design solutions that tr
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph.svg">
 </picture>
 
----
+
 ## 🌍 Connect With Me
 
 <div align="center">
