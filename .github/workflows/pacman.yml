@@ -5,28 +5,31 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write     # FIX
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Generate Pac-Man Graph (Light)
-        uses: Platane/snk@v3
+        uses: yoshi389111/github-contribution-grid-snake@main
         with:
-          github_user_name: ahmedtarek-mel
-          outputs: |
-            pacman-contribution-graph.svg
+          github_user_name: "ahmedtarek-mel"
+          svg_out_path: "pacman-contribution-graph.svg"
 
       - name: Generate Pac-Man Graph (Dark)
-        uses: Platane/snk@v3
+        uses: yoshi389111/github-contribution-grid-snake@main
         with:
-          github_user_name: ahmedtarek-mel
-          outputs: |
-            pacman-contribution-graph-dark.svg
+          github_user_name: "ahmedtarek-mel"
+          svg_out_path: "pacman-contribution-graph-dark.svg"
+          snake_color: "#00FF00"
 
-      - name: Push generated files
+      - name: Publish to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
