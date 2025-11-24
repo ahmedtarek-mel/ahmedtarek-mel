@@ -90,7 +90,7 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 </div>
   
-### 🐍 Pac-Man GitHub Contribution Animation
+### 🐍 GitHub Contribution Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph-dark.svg">
