@@ -81,17 +81,26 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 ---
 
+
+
+## 📊 GitHub Insights
+
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtarek-mel&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtarek-mel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
+
+
+---
   
-### 🐍 GitHub Contribution Animation
+### Contribution Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph-dark.svg">
