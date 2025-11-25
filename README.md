@@ -86,10 +86,6 @@ I blend technical expertise with analytical thinking to design solutions that tr
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtarek-mel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
