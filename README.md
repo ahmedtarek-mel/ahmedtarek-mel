@@ -59,7 +59,7 @@ I blend technical expertise with analytical thinking to design solutions that tr
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"/>
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow"/>
   <img width="12"/>
@@ -68,9 +68,9 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 **Visualization & Tools**  
 <div align="left">
-  <img src="https://img.icons8.com/color/48/tableau-software.svg" height="40" alt="tableau"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="28" alt="tableau"/>
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="28" alt="Power BI"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter"/>
   <img width="12"/>
@@ -84,7 +84,7 @@ I blend technical expertise with analytical thinking to design solutions that tr
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
