@@ -68,7 +68,7 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 **Visualization & Tools**  
 <div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.svg" height="40" alt="tableau"/>
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI"/>
   <img width="12"/>
@@ -81,18 +81,14 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 ---
 
-
-
 ## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-
-
 ---
-  
+
 ### Contribution Animation
 
 <picture>
@@ -101,6 +97,7 @@ I blend technical expertise with analytical thinking to design solutions that tr
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
 ## 🌍 Connect With Me
 
@@ -113,4 +110,8 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 ---
 
+<div align="center">
+
 ⭐ **"Turning complex data into clear, strategic intelligence."**
+
+</div>
