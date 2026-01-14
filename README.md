@@ -26,7 +26,7 @@ I'm a dedicated **Data Scientist & Machine Learning Engineer** passionate about 
 - **Current Focus:** Predictive analytics, MLOps, and intelligent automation
 - **Core Strengths:** Machine Learning, Data Engineering, Business Insight Generation
 - **Ask me about:** Data Strategy, ML Modeling, and Analytical Storytelling
-- **Available for:** Advanced Data Science & Machine Learning opportunities
+- **Available for:** Data Science & Machine Learning opportunities
 
 ---
 
@@ -39,15 +39,6 @@ I'm a dedicated **Data Scientist & Machine Learning Engineer** passionate about 
 | [**Vigilance AI**](https://ahmedtarek-mel.github.io/Vigilance-AI/web) | Real-time driver drowsiness detection system | TensorFlow.js, MediaPipe, Computer Vision |
 | [**ResuLens AI**](https://resulens-ai.onrender.com) | Intelligent resume-to-job matching with semantic analysis | BERT, NLP, Flask, Sentence-Transformers |
 | [**Wuzzuf Market Pulse**](https://wuzzuf-job-market-analysis.streamlit.app/) | Real-time Egyptian job market analytics dashboard | Python, Streamlit, Plotly, GitHub Actions |
-
----
-
-## Focus Areas
-
-- **Data Science & Analytics** - Advanced data wrangling, exploration, and insight generation
-- **Machine Learning & MLOps** - Predictive modeling, classification, optimization, and production deployment
-- **Business Intelligence** - Connecting analytical results to strategic decisions
-- **Visualization & Reporting** - Tableau, Power BI, Matplotlib, and Seaborn
 
 ---
 
@@ -101,23 +92,7 @@ I'm a dedicated **Data Scientist & Machine Learning Engineer** passionate about 
 
 ---
 
-## Certifications
-
-| Provider | Certificate | Year |
-|----------|-------------|------|
-| IBM | AI Engineering Professional Certificate | 2026 |
-| DeepLearning.AI | Machine Learning in Production | 2025 |
-| Google | Advanced Data Analytics | 2025 |
-| IBM | Machine Learning Specialization | 2024 |
-| Udacity | Data Analysis Professional Nanodegree | 2022 |
-
----
-
 ## GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtarek-mel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
