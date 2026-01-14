@@ -114,9 +114,9 @@ I'm a dedicated **Data Scientist & Machine Learning Engineer** passionate about 
 
 <div align="center">
 
-**LinkedIn:** [linkedin.com/in/ahmed-tarek-mel](https://www.linkedin.com/in/ahmed-tarek-mel)
-**Email:** [ahmedtarekmel@gmail.com](mailto:ahmedtarekmel@gmail.com)
-**Portfolio:** [ahmedtarek-mel.github.io/ahmed-portfolio](https://ahmedtarek-mel.github.io/ahmed-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tarek-mel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-1E90FF?style=flat&logo=google-chrome&logoColor=white)](https://ahmedtarek-mel.github.io/ahmed-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmedtarekmel@gmail.com)
 
 </div>
 
