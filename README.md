@@ -1,48 +1,59 @@
-<h1 align="center">👋 Hello, I'm Ahmed Tarek</h1>
-<h3 align="center">
-Data Scientist & Machine Learning Engineer | Python, R, SQL, Tableau, Power BI | Predictive Analytics & AI
-</h3>
+<h1 align="center">Hello, I'm Ahmed Tarek</h1>
+<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 <p align="center">
-🎓 Certified by <strong>Google</strong>, <strong>IBM</strong> & <strong>DeepLearning.AI</strong>
+Python | R | SQL | Tableau | Power BI | Predictive Analytics & AI
+</p>
+<p align="center">
+Certified by <strong>Google</strong>, <strong>IBM</strong>, & <strong>DeepLearning.AI</strong>
 </p>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tarek-mel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-1E90FF?style=flat&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/AhmedTarek)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ahmedtarekmel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-1E90FF?style=flat&logo=google-chrome&logoColor=white)](https://ahmedtarek-mel.github.io/ahmed-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmedtarekmel@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-Hi there! I'm **Ahmed Tarek**, a dedicated **Data Scientist & Machine Learning Engineer** passionate about leveraging data to drive business growth and innovation.  
-I blend technical expertise with analytical thinking to design solutions that transform raw information into impactful insights.
+I'm a dedicated **Data Scientist & Machine Learning Engineer** passionate about leveraging data to drive business growth and innovation. I blend technical expertise with analytical thinking to design solutions that transform raw information into impactful insights.
 
-- 🔭 **Current Focus:** Predictive analytics, statistical modeling & intelligent automation  
-- 🌱 **Core Strengths:** Machine Learning, Data Engineering, Business Insight Generation  
-- 💬 **Ask me about:** Data Strategy, ML Modeling, and Analytical Storytelling  
-- 💼 **Available for:** Advanced Data Science & Machine Learning opportunities  
-- 📫 **Reach me at:** [ahmedtarekmel@gmail.com](mailto:ahmedtarekmel@gmail.com)
+- **Current Focus:** Predictive analytics, MLOps, and intelligent automation
+- **Core Strengths:** Machine Learning, Data Engineering, Business Insight Generation
+- **Ask me about:** Data Strategy, ML Modeling, and Analytical Storytelling
+- **Available for:** Advanced Data Science & Machine Learning opportunities
 
 ---
 
-## 🧠 Focus Areas
+## Featured Projects
 
-- 📊 **Data Science & Analytics** — advanced data wrangling, exploration, and insight generation  
-- 🤖 **Machine Learning** — predictive modeling, classification, and optimization  
-- 💡 **Business Intelligence** — connecting analytical results to strategic decisions  
-- 📈 **Visualization & Reporting** — Tableau, Power BI, Matplotlib, and Seaborn  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**WatchTower**](https://github.com/ahmedtarek-mel/WatchTower) | Production MLOps pipeline for Network Intrusion Detection (99.87% accuracy) | XGBoost, FastAPI, Docker, MLflow, Prefect |
+| [**Prime Brief**](https://prime-brief.streamlit.app/) | Multi-agent AI research platform with autonomous agents | CrewAI, Google Gemini, LangChain, Streamlit |
+| [**Vigilance AI**](https://ahmedtarek-mel.github.io/Vigilance-AI/web) | Real-time driver drowsiness detection system | TensorFlow.js, MediaPipe, Computer Vision |
+| [**ResuLens AI**](https://resulens-ai.onrender.com) | Intelligent resume-to-job matching with semantic analysis | BERT, NLP, Flask, Sentence-Transformers |
+| [**Wuzzuf Market Pulse**](https://wuzzuf-job-market-analysis.streamlit.app/) | Real-time Egyptian job market analytics dashboard | Python, Streamlit, Plotly, GitHub Actions |
 
 ---
 
-## 🛠️ Tech Stack
+## Focus Areas
 
-**Languages & Databases**  
+- **Data Science & Analytics** - Advanced data wrangling, exploration, and insight generation
+- **Machine Learning & MLOps** - Predictive modeling, classification, optimization, and production deployment
+- **Business Intelligence** - Connecting analytical results to strategic decisions
+- **Visualization & Reporting** - Tableau, Power BI, Matplotlib, and Seaborn
+
+---
+
+## Tech Stack
+
+**Languages & Databases**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
   <img width="12"/>
@@ -53,7 +64,7 @@ I blend technical expertise with analytical thinking to design solutions that tr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite"/>
 </div>
 
-**Machine Learning & Analytics**  
+**Machine Learning & Analytics**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
   <img width="12"/>
@@ -66,7 +77,18 @@ I blend technical expertise with analytical thinking to design solutions that tr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch"/>
 </div>
 
-**Visualization & Tools**  
+**MLOps & DevOps**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
+</div>
+
+**Visualization & Tools**
 <div align="left">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="28" alt="tableau"/>
   <img width="8"/>
@@ -74,14 +96,28 @@ I blend technical expertise with analytical thinking to design solutions that tr
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
 </div>
 
 ---
 
-## 📊 GitHub Insights
+## Certifications
+
+| Provider | Certificate | Year |
+|----------|-------------|------|
+| IBM | AI Engineering Professional Certificate | 2026 |
+| DeepLearning.AI | Machine Learning in Production | 2025 |
+| Google | Advanced Data Analytics | 2025 |
+| IBM | Machine Learning Specialization | 2024 |
+| Udacity | Data Analysis Professional Nanodegree | 2022 |
+
+---
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtarek-mel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedtarek-mel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
@@ -89,22 +125,23 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 ---
 
-### Contribution Animation
+## Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/ahmedtarek-mel/ahmedtarek-mel/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
-## 🌍 Connect With Me
+## Connect
 
 <div align="center">
- 
-💼 **LinkedIn:** [linkedin.com/in/ahmed-tarek-mel](https://www.linkedin.com/in/ahmed-tarek-mel)  
-📧 **Email:** [ahmedtarekmel@gmail.com](mailto:ahmedtarekmel@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/ahmed-tarek-mel](https://www.linkedin.com/in/ahmed-tarek-mel)
+**Email:** [ahmedtarekmel@gmail.com](mailto:ahmedtarekmel@gmail.com)
+**Portfolio:** [ahmedtarek-mel.github.io/ahmed-portfolio](https://ahmedtarek-mel.github.io/ahmed-portfolio/)
 
 </div>
 
@@ -112,6 +149,6 @@ I blend technical expertise with analytical thinking to design solutions that tr
 
 <div align="center">
 
-⭐ **"Turning complex data into clear, strategic intelligence."**
+*"From raw data to production."*
 
 </div>
